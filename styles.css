@@ -73,7 +73,7 @@ nav li a {
 /* =================================== Featured Section ===================================*/
 
 #featured-section {
-    background-image: url(/Image/Welding_Img_006.jpg);
+    background-image: url(Image/Welding_Img_006.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -189,7 +189,7 @@ nav li a {
 }
 
 .product-left .product-left-img {
-    background-image: url(/Image/Welding_Img_004.avif);
+    background-image: url(Image/Welding_Img_004.avif);
     background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -211,7 +211,7 @@ nav li a {
 }
 
 .product-middle .product-middle-img {
-    background-image: url(/Image/Structural_Fabrication.jpg);
+    background-image: url(Image/Structural_Fabrication.jpg);
     background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -233,7 +233,7 @@ nav li a {
 }
 
 .product-right .product-right-img {
-    background-image: url(/Image/Metal_Fabrication.jpg);
+    background-image: url(Image/Metal_Fabrication.jpg);
     background-position:left;
     background-repeat: no-repeat;
     background-size: cover;
@@ -272,7 +272,7 @@ nav li a {
 }
 
 .product-left-x .product-left-img-x {
-    background-image: url(/Image/Mass_Production.webp);
+    background-image: url(Image/Mass_Production.webp);
     background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -294,7 +294,7 @@ nav li a {
 }
 
 .product-middle-x .product-middle-img-x {
-    background-image: url(/Image/Pipe_Fabrication.webp);
+    background-image: url(Image/Pipe_Fabrication.webp);
     background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -316,7 +316,7 @@ nav li a {
 }
 
 .product-right-x .product-right-img-x {
-    background-image: url(/Image/Consulting_Img.avif);
+    background-image: url(Image/Consulting_Img.avif);
     background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -355,7 +355,7 @@ nav li a {
 }
 
 .team-1 .team-1-img {
-    background-image: url(/Image/Office-Img3.jpg);
+    background-image: url(Image/Office-Img3.jpg);
     background-position:center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -373,7 +373,7 @@ nav li a {
 }
 
 .team-2 .team-2-img {
-    background-image: url(/Image/Pres_and_Vice_Img.webp);
+    background-image: url(Image/Pres_and_Vice_Img.webp);
     background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -391,7 +391,7 @@ nav li a {
 }
 
 /* .team-3 .team-3-img {
-    background-image: url(/Image/CEO_Img.webp);
+    background-image: url(Image/CEO_Img.webp);
     background-position:center;
     background-repeat: no-repeat;
     background-size:contain;
@@ -409,7 +409,7 @@ nav li a {
 } */
 
 .team-4 .team-4-img {
-    background-image: url(/Image/Group_Img.webp);
+    background-image: url(Image/Group_Img.webp);
     background-position:center;
     background-repeat: no-repeat;
     background-size:cover;
